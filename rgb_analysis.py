@@ -127,7 +127,11 @@ def get_preprocess_image(img):
                     num_pieces_locked=num_pieces_locked+1
                     cv2.drawContours(cntsimg, [c], -1, (0, 0, 255), 1)
                 else: num_pieces_unlocked=num_pieces_unlocked+1
-              
+    #Save the center coordinates of the cut elements in a txt file
+    center_list = open("c_list.txt","w") 
+    for x in c_list:
+    center_list.write(str(x)+'\n')
+    center_list.close()           
 
     cv2.circle(cntsimg, (100, 500), 5, (100, 255, 100), -1)    
     cv2.imshow("Results",cntsimg)
