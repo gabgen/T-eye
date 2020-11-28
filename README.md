@@ -6,10 +6,10 @@ autonomous stuck scrap recognition in laser cutting process
 T-eye is a simple software aimed to recognise a stuck element in metal piece after a laser cutting process. 
 ## Hardware components & Software
 ### Hardware
- - RaspberryPi3-B+
- - Picamera
+ - RaspberryPi3-B+Dissipator
+ - Picamera V2
  - Thermal Camera ( https://shop.pimoroni.com/products/mlx90640-thermal-mera-breakout?variant=12536948654163 )
- - External Case 
+ - External Case ( 3D printed )
 ### Software 
 Python 3.6 with the following libraries :
 - picamera 
