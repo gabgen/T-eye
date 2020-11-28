@@ -31,3 +31,4 @@ For more info you can read "T-eye report".
 
 The two files "rgb_analysis.py" and "thermal_analysis.py" are the two aformentioned branches of the software . The element that links those two branches are "c_list.txt" . Indeed "c_list.txt" contains a list of the centers of the cut elements that could be defected, saved by the "rgb_analysis.py" . Then the "thermal_analysis.py" read the centers location and match it with the thermal matrix in order to check the defect.
 
+
