@@ -1,5 +1,5 @@
 # T-eye
-Autonomous recognition of defect in laser cutting processed element
+Autonomous stuck scrap recognition of defect in laser cutting processed element
 
 ![GitHub Logo](https://github.com/gabriele1295/T-eye/blob/main/T-eye%20Images/image.png)
 ### What it is ? 
