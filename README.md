@@ -21,7 +21,7 @@ Python 3.6 with the following libraries :
 Files: 
 - rgb_analysis.py 
 - thermal_analysis.py
-- mlx90640.tar (for runnig the thermal camera)
+- mlx90640.tar (thermal camera scripts and functions)
 
 
 ## How does T-eye work ? 
