@@ -1,7 +1,7 @@
 # T-eye
 Autonomous recognition of defect in laser cutting processed element
 
-![GitHub Logo](https://github.com/gabriele1295/T-eye/blob/main/T-eye%20Images/76a9e9f7-b6a6-428a-a1b1-efe830e54afa.jfif)
+![GitHub Logo](https://github.com/gabriele1295/T-eye/blob/main/T-eye%20Images/image.png)
 ### What it is ? 
 T-eye is a simple software aimed to recognise a stuck element in metal piece after a laser cutting process. 
 ## Hardware components & Software
