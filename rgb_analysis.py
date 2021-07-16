@@ -1,15 +1,13 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt
 import statistics
+import os
 
 
 
