@@ -1,9 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[ ]:
-
-
 from picamera.array import PiRGBArray
 from picamera import PiCamera
 import cv2
